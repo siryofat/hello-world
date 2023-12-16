@@ -1,5 +1,5 @@
-# hello-world
-My first ever repository on github!
+# hola, mundo!
+Así empieza mi biblioteca de scripts. Vengo a GitHub a desarrollar aplicaciones de Python y AutoLisp con enfoque en Ingeniería Estructural. 
 
-# About myself
-I'm a great guy!
+# Sobre mi
+Decidido a ser mi mejor versión. Quiero compartir sobre la experiencia de aprendizaje en estos lenguajes en ese campo.
